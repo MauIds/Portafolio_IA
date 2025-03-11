@@ -1,12 +1,11 @@
 # 🤖 ¡Mi Aventura en el Mundo de la IA! 🚀
 
-![Inteligencia Artificial](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQxcmQ3MXF1bmFkb2N3enl2YmEwMjY2Y3lnbmwzZXF5OHUxcWpociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
+![Inteligencia Artificial](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4dG1tdXZoZnpnZHl6bHFmaDR2bzc3dGliYzlzd2tnZGszbXp4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qAtZM2gvjWhPjmclZE/giphy.gif)
 
 ## 👋 ¡Hola, Mundo IA!
 
 Bienvenidos a mi laboratorio digital donde estoy aprendiendo a darle vida a las máquinas (¡sin crear Skynet, lo prometo! 😉). Soy un entusiasta Junior en Inteligencia Artificial compartiendo mi viaje desde cero hasta... ¡quién sabe dónde!
 
-> *"El mejor momento para aprender IA fue hace 10 años. El segundo mejor momento es AHORA."* - Yo, inspirado en un proverbio chino... y café ☕
 
 ## 🧠 ¿Qué estoy aprendiendo?
 
@@ -70,4 +69,4 @@ Algunos recursos que me están ayudando en este viaje:
 
 ⭐ **Si este repositorio te inspiró o te hizo sonreír, ¡dame una estrella!** ⭐
 
-*Construido con 💖 y muchas horas de debugging*
+*Construido con esfuerzo‼️ y muchas horas de estudio⌛*
