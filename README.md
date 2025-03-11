@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola, Mundo IA!
 
-Bienvenidos a mi laboratorio digital donde estoy aprendiendo a darle vida a las máquinas (¡sin crear Skynet, lo prometo! 😉). Soy un entusiasta Junior en Inteligencia Artificial compartiendo mi viaje desde cero hasta... ¡quién sabe dónde!
+Bienvenidos a mi laboratorio digital donde estoy aprendiendo a darle vida a las máquinas. Soy un entusiasta Junior en Inteligencia Artificial compartiendo mi viaje desde cero hasta... ¡quién sabe dónde!
 
 
 ## 🧠 ¿Qué estoy aprendiendo?
