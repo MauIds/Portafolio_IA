@@ -24,7 +24,8 @@ Este repositorio contiene una colección de proyectos pequeños pero poderosos q
 ### 🔍 Explora mis mini-proyectos:
 
 1. [**Interfaces con Gradio**](./gradio-interfaces) - Creando portales mágicos para interactuar con modelos de IA
-2. ... ¡y muchos más por venir! 🔮
+2. [**Chatbot con Gradio**](./Gradio-chatbot/)
+3. ... ¡y muchos más por venir! 🔮
 
 ## 🚦 Estado del Aprendizaje
 
